@@ -18,8 +18,7 @@ To begin interacting with the ecommerce_db, you will go to the command line in t
 ![picture](./ecommerceORM.png)
 
 ## Link to demo video:
-https://drive.google.com/file/d/1cm4h5th1XV-erThIFrT-qVcTI7zp7EFr/view
-
+https://drive.google.com/file/d/1g8k4E_7zA_ewqIGy57XAHWxcLMGuLxvs/view
 ## Credits
 UofA Coding Bootcamp starter code
 
