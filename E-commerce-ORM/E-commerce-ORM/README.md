@@ -1,7 +1,7 @@
 # E-commerce-ORM
 
 ## Description
-Interact with the back-end database to view the E-commerce categories, products, tags and product tags. With support by Insomnia Core, you can create (POST), read (GET), update (PUT), and delete (DELETE) data within the databases, 
+Interact with the back-end database to view the E-commerce categories, products, tags and product tags!!  support by Insomnia Core,  can help you create (POST), read (GET), update (PUT), and delete (DELETE) data within your databases.
 
 ## Table of Contents 
 * [Installation](#installation)
@@ -10,10 +10,10 @@ Interact with the back-end database to view the E-commerce categories, products,
 * [License](#license)
 
 ## Installation 
-Ensure packages are installed after git cloning the repo. Type the following into the command line "npm init -y", "npm install express sequelize mysql2", and "npm install dotenv". You will need to create the database within mysql and to login you will type "mysql -u root -p", and then type "source schema.sql". This will create the database and you can type "quit" to exit mysql command line. Once the packages are installed, update the .env file with your mysql password and then type "echo '.env' >> .gitignore" into the command line to hide the .env file. This will protect your log in credentials. 
+First varify packages are installed after git has finnished cloning the repo. Then type  "npm init -y", "npm install express sequelize mysql2", and "npm install dotenv" into the command line. Then you must create the database within mysql and in order to login. Next type "mysql -u root -p", and then type "source schema.sql". This will ensure the database is created. You may then type "quit" to exit mysql command line. When all packages are installed, update the .env file with your mysql password. After this you will type "echo '.env' >> .gitignore" into the command line in order to hide the .env file. This  protects your log in credentials!!
 
 ## Usage
-To begin interacting with the ecommerce_db, you will go to the command line in the root directory of the repo, and type "node server.js" or "node server" and from there, open Insomnia Core to interact with GET, POST, PUT and DELETE.
+To first start interacting with the ecommerce_db, first go to the command line in the root directory of the repo,  type "node server.js" or "node server" whichever is preferred. Then open Insomnia Core in oder to interact with GET, PUT, POST and DELETE.
 
 ![picture](./ecommerceORM.png)
 
