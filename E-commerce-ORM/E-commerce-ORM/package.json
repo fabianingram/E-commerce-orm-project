@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/galacticnative/E-commerce-ORM.git"
+    "url": "git+https://github.com/fabianingram/E-commerce-ORM-project.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/galacticnative/E-commerce-ORM/issues"
+    "url": "https://github.com/fabianingram/E-commerce-ORM-project/issues"
   },
-  "homepage": "https://github.com/galacticnative/E-commerce-ORM#readme",
+  "homepage": "https://github.com/fabianingram/E-commerce-ORM-project#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
