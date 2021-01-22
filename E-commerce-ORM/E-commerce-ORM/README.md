@@ -17,8 +17,9 @@ To first start interacting with the ecommerce_db, first go to the command line i
 
 
 ## Link to demo video:
-https://drive.google.com/file/d/1g8k4E_7zA_ewqIGy57XAHWxcLMGuLxvs/view
-## Credits
+https://drive.google.com/file/d/1ldtPYx6HDtp7hbXTwtrdgcN6Upm8S1ND/view## 
+
+Credits
 UofA Coding Bootcamp starter code
 
 ## License
