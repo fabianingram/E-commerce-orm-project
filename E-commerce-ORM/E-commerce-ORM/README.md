@@ -15,6 +15,7 @@ First varify packages are installed after git has finnished cloning the repo. Th
 ## Usage
 To first start interacting with the ecommerce_db, first go to the command line in the root directory of the repo,  type "node server.js" or "node server" whichever is preferred. Then open Insomnia Core in oder to interact with GET, PUT, POST and DELETE.
 
+<img width="839" alt="Screen Shot 2021-01-21 at 7 18 05 PM" src="https://user-images.githubusercontent.com/68198938/105437244-e9211b00-5c1d-11eb-89d6-b1732e3842af.png">
 
 ## Link to demo video:
 https://drive.google.com/file/d/1ldtPYx6HDtp7hbXTwtrdgcN6Upm8S1ND/view## 
